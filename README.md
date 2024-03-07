@@ -80,3 +80,13 @@
       </animated-image>
       <img align="center" alt="BielRocca" src="https://camo.githubusercontent.com/a7beb784cb3c6d06cf5c3b71d5ced0ce64ecf616cf37a5abb387d53decec2a25/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4461726c616e536368776172747a267469746c655f636f6c6f723d36316461666226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3631646166622662675f636f6c6f723d323032333261266c616e67735f636f756e743d3130266c61796f75743d636f6d7061637426626f726465725f636f6c6f723d36316461666226686964655f626f726465723d747275652673697a655f7765696768743d302e3526636f756e745f7765696768743d302e35" canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielrocca&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5">
     </div>
+<br>
+<br>
+<br>
+
+<div class="markdown-heading">
+  <h2 align="center">Contate-me 📞 </h2>
+</div>
+<a href="mailto:biellucas@outlook.com"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="bielfefi@outlook.com"></a>
+<a href="mailto:bieljdmw@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gabriel-lucas-ferreira-figueiredo-b91252276/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    
