@@ -1,16 +1,82 @@
-### Hi there 👋
+<div class="markdown-heading">
+  <h2 class="heading-element">Olá Mundo, Eu sou Gabriel Lucas! 👋</h2>
+</div>
 
-<!--
-**bielrocca/bielrocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <animated-image data-catalyt style="float: right";>
+    <img align="right" src="https://media.giphy.com/media/1etovSfJvZJfDviLro/giphy.gif" height="300">
+  </animated-image>
+</p>
 
-Here are some ideas to get you started:
+<div class="markdown-heading">
+  <ul>
+    <li>📚 Leaning Quality Assurance Tester e Full Stack Python</li>
+    <li>💬 Sobre mim ... Cabeça Dura</li>
+    <li>👯 Estou procurando colaborar em código aberto</li>
+    <li>⚡ Curiosidade: Falo 3 Idiomas</li>
+    <li><img width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/usa.jpg" alt=""> English, <img width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/spanish.jpg" alt=""> Español, <img width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/brazil.jpg" alt=""> Português;</li>
+  </ul>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="markdown-heading">
+  <h2 align="center" class="heading-element">Languages and Tools</h2>
+</div>
+<div class="markdown-heading">
+  <h3 align="center" class="heading-element"> Web </h3>
+</div>
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <th>Languages</th>
+        <th>Frameworks</th>
+        <th>DataBase</th>
+        <th>Tools</th>
+        <th>Others</th>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://camo.githubusercontent.com/f2ce4039c99cf35adde738583ab0fbcd60eaafccf1e949884bda91d0b5c819ce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" height="28" width="28" alt="html logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> HTML</td>
+        <td align="center"><img src="https://camo.githubusercontent.com/aed5f69c00ea3fd8c8bc70b89d236efae340eb3024526fd11bcba51c80c4aa40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" height="28" width="28" alt="react logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> React</td>
+        <td align="center"> none</td>
+         <td align="center"><img src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" height="28" width="28" alt="git logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> Git</td>
+        <td align="center"><img src="https://camo.githubusercontent.com/8e924bcc0df2c25c2c2d1b281cba1ba4843c6f4432bc850fd9467e0ae686a9ee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7472656c6c6f2f7472656c6c6f2d706c61696e2e737667" height="28" width="28" alt="trello logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> Trello</td>
+      </tr>
+      <tr>
+      <th align="center"><img src="https://camo.githubusercontent.com/0da944f181647261c840e34b20ed7e3ca44ddc150869c6ea550cf98d06c81a37/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" height="28" width="28" alt="CSS logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> CSS</th>
+      <th align="center"><img src="https://camo.githubusercontent.com/2cde166000bd4271614ef8c0a7e435af8a087c05f4d5a36f1945663d363bd463/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" height="28" width="28" alt="node.js logo" data-canonical-src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)"> Node.js</th>
+      <td align="center"> none</td>
+      <th align="center"><img src="https://camo.githubusercontent.com/f06979a23d2739c6ed33b0ac1a8e36660b22b2c654716bd26695370a46f2f430/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f76697375616c73747564696f636f64652f303037414343" height="28" width="28" alt="vscode logo" data-canonical-src="https://cdn.simpleicons.org/visualstudiocode/007ACC"> VsCode</th>
+      <th align="center"><img src="https://github.com/DarlanSchwartz/DarlanSchwartz/raw/main/Github%20readme%20images/terminal.png?raw=true" height="28" width="28" alt="terminal logo" data-canonical-src="https://cdn.simpleicons.org/visualstudiocode/007ACC"> Terminal</th>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28" width="28" alt="python logo"> Python</td>
+        <td align="center"><img src="https://camo.githubusercontent.com/b48ef0b492dad9a050c8f0d54a6bdee8be134ffa75d846fcd26f02782efed56d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667" height="28" width="28" alt="jest logo"> Jest</td>
+        <td align="center"> none</td>
+        <td align="center"><img src="https://camo.githubusercontent.com/a3e65c4a887a1abb4fdb1cf11771df9db7ea20f3d5aa683c51999899613bb8a5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" height="28" width="28" alt="github logo"> GitHub</td>
+        <td align="center"><img src="https://camo.githubusercontent.com/e4d53d8e9486879bdb266531113bce041ed4719f99db5247fbc21c305eea5e9d/68747470733a2f2f6c756e61312e636f2f6331646539612e706e67" height="28" width="28" alt="jira logo"> Jira</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<br>
+<br>
+
+<div class="markdown-heading">
+    <h2 align="center" class="heading-element">🤖 Estatísticas 🤖</h2>
+  </div>
+  <br>
+  <p align="center"></p>
+    <div align="center">
+      <animated-image data-catalyst>
+        <img align="center" style="height: 210px;" src="https://media.giphy.com/media/fHcDJrbUh1BYiOMM1z/giphy.gif" alt="GabrielLucas">
+      </animated-image>
+      <img align="center" alt="BielRocca" src="https://camo.githubusercontent.com/a7beb784cb3c6d06cf5c3b71d5ced0ce64ecf616cf37a5abb387d53decec2a25/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4461726c616e536368776172747a267469746c655f636f6c6f723d36316461666226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3631646166622662675f636f6c6f723d323032333261266c616e67735f636f756e743d3130266c61796f75743d636f6d7061637426626f726465725f636f6c6f723d36316461666226686964655f626f726465723d747275652673697a655f7765696768743d302e3526636f756e745f7765696768743d302e35" canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielrocca&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5">
+    </div>
