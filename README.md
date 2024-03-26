@@ -89,4 +89,6 @@
 </div>
 <a href="mailto:bielfefi@outlook.com"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="bielfefi@outlook.com"></a>
 <a href="mailto:bieljdmw@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/gabriel-lucas-ferreira-figueiredo-b91252276/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    
+<a href="https://www.linkedin.com/in/gabriel-lucas-ferreira-figueiredo-b91252276/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+
+<img src="https://github.com/Ricmaloy/Ricmaloy/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
