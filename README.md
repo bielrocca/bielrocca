@@ -86,7 +86,7 @@
 <br>
 
 <div class="markdown-heading">
-  <h2 align="center">Contate-me 📞 </h2>
+  <h2>Conta comigo  <img height="25" src="https://cdn.pixabay.com/animation/2023/04/14/09/45/09-45-44-954_512.gif"></h2>
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
   <br>
   <br>
