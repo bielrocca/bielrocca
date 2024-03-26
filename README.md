@@ -1,19 +1,20 @@
 <div class="markdown-heading">
-  <h2 class="heading-element">Olá Mundo, Eu sou Gabriel Lucas! 👋</h2>
+  <h2 class="heading-element">Hello World <img height="25" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f30d.gif" alt=""></h2>
 </div>
 
 <p>
   <animated-image data-catalyt style="float: right";>
-    <img align="right" src="https://media.giphy.com/media/1etovSfJvZJfDviLro/giphy.gif" height="300">
+    <img align="right" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" height="300">
   </animated-image>
 </p>
 
 <div class="markdown-heading">
   <ul>
-    <li>📚 Leaning Quality Assurance Tester e Full Stack Python</li>
-    <li>💬 Sobre mim ... Cabeça Dura</li>
-    <li>👯 Estou procurando colaborar em código aberto</li>
-    <li>⚡ Curiosidade: Falo 3 Idiomas</li>
+    <li> <em>Me chamo Gabriel Lucas, sou Paulista porém Corinthiano</em> </li>
+    <li> <em>Curso Desenvolvimento Full Stack pela Ebac e Analise e Desenvolvimento de Sistema na Anhanguera</em> </li>
+    <li> <em>Recem apaixonado pelo Front porém tenho minha preferencia pelo Back-End </em> </li>
+    <li> <em>Estou procurando colaborar em código aberto</em> </li>
+    <li> <em>Curiosidade: Falo 3 Idiomas</em> </li>
     <li><img width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/usa.jpg" alt=""> English, <img width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/spanish.jpg" alt=""> Español, <img width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/brazil.jpg" alt=""> Português;</li>
   </ul>
 </div>
@@ -27,7 +28,7 @@
 <br>
 
 <div class="markdown-heading">
-  <h2 align="center" class="heading-element">Languages and Tools</h2>
+  <h2 class="heading-element">Languages and Tools <img height="25" src="https://seeklogo.com/images/D/discord-partnership-badge-logo-80FD5C7D6F-seeklogo.com.png" alt=""></h2>
 </div>
 <div class="markdown-heading">
   <h3 align="center" class="heading-element"> Web </h3>
@@ -70,13 +71,13 @@
 <br>
 
 <div class="markdown-heading">
-    <h2 align="center" class="heading-element">🤖 Estatísticas 🤖</h2>
+    <h2 class="heading-element">Estatísticas <img height="25" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghXkEJAJfcLBQcaZFYjhkd0URxJLYbx1qfIHiEQQlSAn2KHd9FU5qpnm5fzcvpzdO_7Lgtsa_-7cpjq6Sv8Elho8v7ZfYHtAXVogSNuzTor6W68HkW9EtUn4Uxcn4bVHWN87B7w3pIRxSL/s1600/Estatistica-81614.gif" alt=""></h2> 
   </div>
   <br>
   <p align="center"></p>
     <div align="center">
       <animated-image data-catalyst>
-        <img align="center" style="height: 210px;" src="https://media.giphy.com/media/fHcDJrbUh1BYiOMM1z/giphy.gif" alt="GabrielLucas">
+        <img align="center" style="height: 210px;" src="https://cdnb.artstation.com/p/assets/images/images/015/889/927/original/mathieu-bertault-coloranim-perso-codage.gif?1550062538" alt="GabrielLucas">
       </animated-image>
       <img align="center" alt="BielRocca" src="https://camo.githubusercontent.com/a7beb784cb3c6d06cf5c3b71d5ced0ce64ecf616cf37a5abb387d53decec2a25/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4461726c616e536368776172747a267469746c655f636f6c6f723d36316461666226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3631646166622662675f636f6c6f723d323032333261266c616e67735f636f756e743d3130266c61796f75743d636f6d7061637426626f726465725f636f6c6f723d36316461666226686964655f626f726465723d747275652673697a655f7765696768743d302e3526636f756e745f7765696768743d302e35" canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielrocca&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5">
     </div>
