@@ -30,7 +30,6 @@
   <h2 class="heading-element">Languages and Tools <img height="25" src="https://seeklogo.com/images/D/discord-partnership-badge-logo-80FD5C7D6F-seeklogo.com.png" alt=""></h2>
 </div>
 <div class="markdown-heading">
-  <h3 align="center" class="heading-element"> Web </h3>
 </div>
 <div align="center">
   <table>
