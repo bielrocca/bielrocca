@@ -14,7 +14,7 @@
     <li> <em>Curso Desenvolvimento Full Stack pela Ebac e Analise e Desenvolvimento de Sistema na Anhanguera</em> </li>
     <li> <em>Recem apaixonado pelo Front porém tenho minha preferencia pelo Back-End </em> </li>
     <li> <em>Estou procurando colaborar como desenvolvedor Full-Stack</em> </li>
-    <li> <em>Curiosidade: Falo 3 Idiomas</em> </li><img width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/usa.jpg" alt=""> <img width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/spanish.jpg" alt=""> <img width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/brazil.jpg" alt=""></li>
+    <li> <em>Falo 3 Idiomas:</em> <img width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/usa.jpg" alt=""> <img width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/spanish.jpg" alt=""> <img width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/brazil.jpg" alt=""></li>
   </ul>
 </div>
 <br>
