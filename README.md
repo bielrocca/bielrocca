@@ -67,6 +67,7 @@
         <th align="center"> none</th>
         <th align="center"> none</th>
         <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" height="28" width="50%" alt="figma"> Figma</th>
+        <th align="center"> none</th>
       </tr>
     </tbody>
   </table>
