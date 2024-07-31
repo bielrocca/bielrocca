@@ -56,7 +56,7 @@
       <th align="center"><img src="https://github.com/DarlanSchwartz/DarlanSchwartz/raw/main/Github%20readme%20images/terminal.png?raw=true" height="28" width="70%" alt="terminal logo" data-canonical-src="https://cdn.simpleicons.org/visualstudiocode/007ACC"> Terminal</th>
     </tr>
     <tr>
-        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28" width="50%" alt="python logo"> Python</td>
+        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28" width="70%" alt="python logo"> Python</td>
         <td align="center"><img src="https://camo.githubusercontent.com/b48ef0b492dad9a050c8f0d54a6bdee8be134ffa75d846fcd26f02782efed56d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667" height="28" width="80%" alt="jest logo"> Jest</td>
         <td align="center"> none</td>
         <td align="center"><img src="https://camo.githubusercontent.com/a3e65c4a887a1abb4fdb1cf11771df9db7ea20f3d5aa683c51999899613bb8a5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" height="28" width="50%" alt="github logo"> GitHub</td>
