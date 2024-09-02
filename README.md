@@ -42,35 +42,35 @@
         <th>Others</th>
       </tr>
       <tr>
-        <td align="center"><img src="https://camo.githubusercontent.com/f2ce4039c99cf35adde738583ab0fbcd60eaafccf1e949884bda91d0b5c819ce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" height="28" width="70%" alt="html logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> HTML</td>
-        <td align="center"><img src="https://camo.githubusercontent.com/aed5f69c00ea3fd8c8bc70b89d236efae340eb3024526fd11bcba51c80c4aa40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" height="28" width="60%" alt="react logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> React</td>
-        <td align="center"><img src="https://camo.githubusercontent.com/2facb89b414f4beb89250ff00956b210e030d79c1c78489e555fc2921e158b8a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" height="28" width="70%" alt="postgresql logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg""> PostgreSQL</td>
-         <td align="center"><img src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" height="28" width="80%" alt="git logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> Git</td>
-        <td align="center"><img src="https://camo.githubusercontent.com/8e924bcc0df2c25c2c2d1b281cba1ba4843c6f4432bc850fd9467e0ae686a9ee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7472656c6c6f2f7472656c6c6f2d706c61696e2e737667" height="28" width="70%" alt="trello logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> Trello</td>
+        <td align="center"><img src="https://static-00.iconduck.com/assets.00/html-5-icon-1791x2048-z31wj8s7.png" height="28" width="30%" alt="html logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><br> HTML</td>
+        <td align="center"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="28" width="30%" alt="react logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><br>React</td>
+        <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp&w=256" height="28" width="30%" alt="postgresql logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg""> PostgreSQL</td>
+         <td align="center"><img src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="28" width="50%" alt="git logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><br> Git</td>
+        <td align="center"><img src="https://logos-world.net/wp-content/uploads/2021/02/Trello-Emblem.png" height="28" width="70%" alt="trello logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"><br> Trello</td>
     </tr>
     <tr>
-      <th align="center"><img src="https://camo.githubusercontent.com/0da944f181647261c840e34b20ed7e3ca44ddc150869c6ea550cf98d06c81a37/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" height="28" width="80%" alt="CSS logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> CSS</th>
-      <th align="center"><img src="https://camo.githubusercontent.com/2cde166000bd4271614ef8c0a7e435af8a087c05f4d5a36f1945663d363bd463/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" height="28" width="70%" alt="node.js logo" data-canonical-src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)"> Node.js</th>
-      <td align="center"><img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="30%" height="28" alt="node.js logo" data-canonical-src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)"><br>MySQL</td> 
+      <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="28" width="30%" alt="CSS logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <br>CSS</th>
+      <th align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="28" width="30%" alt="node.js logo" data-canonical-src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)"><br> Node.js</th>
+      <td align="center"><img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="20%" height="28" alt="node.js logo" data-canonical-src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)"><br>MySQL</td> 
       <th align="center"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" height="28" width="40%" alt="vscode logo" data-canonical-src="https://cdn.simpleicons.org/visualstudiocode/007ACC"><br>VsCode</th>
-      <th align="center"><img src="https://github.com/DarlanSchwartz/DarlanSchwartz/raw/main/Github%20readme%20images/terminal.png?raw=true" height="28" width="40%" alt="terminal logo" data-canonical-src="https://cdn.simpleicons.org/visualstudiocode/007ACC"><br>Terminal</th>
+      <th align="center"><img src="https://github.com/DarlanSchwartz/DarlanSchwartz/raw/main/Github%20readme%20images/terminal.png?raw=true" height="28" width="30%" alt="terminal logo" data-canonical-src="https://cdn.simpleicons.org/visualstudiocode/007ACC"><br>Terminal</th>
     </tr>
     <tr>
         <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28" width="70%" alt="python logo"> Python</td>
-        <td align="center"><img src="https://camo.githubusercontent.com/b48ef0b492dad9a050c8f0d54a6bdee8be134ffa75d846fcd26f02782efed56d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667" height="28" width="80%" alt="jest logo"> Jest</td>
-        <td align="center"><img src="https://www.oracle.com/img/tech/dbcs-logo.png" height="28" width="30%" alt="oracle logo"><br>Oracle</td>
-        <td align="center"><img src="https://camo.githubusercontent.com/a3e65c4a887a1abb4fdb1cf11771df9db7ea20f3d5aa683c51999899613bb8a5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" height="28" width="50%" alt="github logo"> GitHub</td>
+        <td align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="28" width="30%" alt="jest logo"><br> Jest</td>
+        <td align="center"><img src="https://www.oracle.com/img/tech/dbcs-logo.png" height="28" width="20%" alt="oracle logo"><br>Oracle</td>
+        <td align="center"><img src="https://camo.githubusercontent.com/a3e65c4a887a1abb4fdb1cf11771df9db7ea20f3d5aa683c51999899613bb8a5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" height="28" width="50%" alt="github logo"><br> GitHub</td>
         <td align="center"><img src="https://camo.githubusercontent.com/e4d53d8e9486879bdb266531113bce041ed4719f99db5247fbc21c305eea5e9d/68747470733a2f2f6c756e61312e636f2f6331646539612e706e67" height="28" width="30%" alt="jira logo"><br>Jira</td>
       </tr>
       <tr>
-        <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="28" width="30%" alt="javascript logo"> JavaScript</th>
+        <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="28" width="30%" alt="javascript logo"><br> JavaScript</th>
         <th align="center"><img src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" height="28" width="60%" alt="bootstrap logo"><br>Bootstrap</th>
         <th align="center"> </th>
-        <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" height="28" width="50%" alt="figma"> Figma</th>
+        <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" height="28" width="50%" alt="figma"><br> Figma</th>
         <th align="center"> </th>
       </tr>
       <tr>
-        <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="28" width="30%" alt="typescript logo"> TypeScript</th>
+        <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="28" width="30%" alt="typescript logo"><br> TypeScript</th>
         <th align="center"> </th>
         <th align="center"> </th>
         <th align="center"> </th>
