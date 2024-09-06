@@ -95,11 +95,12 @@
   <br>
   <p align="center"></p>
     <div align="center">
-      <animated-image data-catalyst>
-        <img align="center" style="height: 210px;" src="https://cdnb.artstation.com/p/assets/images/images/015/889/927/original/mathieu-bertault-coloranim-perso-codage.gif?1550062538" alt="GabrielLucas">
-      </animated-image>
-      <img align="center" alt="BielRocca" src="https://camo.githubusercontent.com/a7beb784cb3c6d06cf5c3b71d5ced0ce64ecf616cf37a5abb387d53decec2a25/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4461726c616e536368776172747a267469746c655f636f6c6f723d36316461666226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3631646166622662675f636f6c6f723d323032333261266c616e67735f636f756e743d3130266c61796f75743d636f6d7061637426626f726465725f636f6c6f723d36316461666226686964655f626f726465723d747275652673697a655f7765696768743d302e3526636f756e745f7765696768743d302e35" canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielrocca&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5">
-    </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bielrocca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bielrocca&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  />
+</div>
+
+###
 <br>
 <br>
 <br>
