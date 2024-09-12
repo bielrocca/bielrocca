@@ -71,14 +71,7 @@
       </tr>
       <tr>
         <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="28" width="30%" alt="typescript logo"><br> TypeScript</th>
-        <th align="center"> </th>
-        <th align="center"> </th>
-        <th align="center"> </th>
-        <th align="center"> </th>
-      </tr>
-            <tr>
         <th align="center"><img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" height="28" width="30%" alt="vuejs logo"><br>VueJs</th>
-        <th align="center"> </th>
         <th align="center"> </th>
         <th align="center"> </th>
         <th align="center"> </th>
